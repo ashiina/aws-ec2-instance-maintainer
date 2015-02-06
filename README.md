@@ -3,7 +3,8 @@ Script that makes it easy to detach instances from ELB, perform scripts, reboot,
 
 What is this? 
 ----- 
-It helps you easily perform the following tasks:  
+It helps you easily perform the following tasks:   
+
 1. Detach an instance from the ELB
 2. Remotely xecute a command on the instance
 3. Reboot the instance
